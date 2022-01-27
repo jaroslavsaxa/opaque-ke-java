@@ -11,5 +11,9 @@ change local 2
 change local stash
 change local stash 2
 change local stash 3
-
+<<<<<<< Updated upstream
+change local stash 4
 change local stashe 5
+=======
+
+>>>>>>> Stashed changes
